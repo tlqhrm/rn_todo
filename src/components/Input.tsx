@@ -130,3 +130,5 @@ const styles = StyleSheet.create({
 });
 
 export default Input;
+
+//구마구마 1
