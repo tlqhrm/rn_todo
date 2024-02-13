@@ -130,3 +130,5 @@ const styles = StyleSheet.create({
 });
 
 export default Input;
+
+//주석을 마구마구 달아버릴테다 !!
